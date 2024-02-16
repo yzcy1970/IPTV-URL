@@ -415,8 +415,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226965/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226968/index.m3u8
 #EXTINF:-1,tvg-id="SYTV-1" tvg-name="SYTV-1" tvg-logo="https://epg.112114.xyz/logo/SYTV1.png" group-title="其他",SYTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226970/index.m3u8
-#EXTINF:-1,tvg-id="兴平融媒http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226971/index.m3u8" tvg-name="兴平融媒http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226971/index.m3u8" tvg-logo="https://epg.112114.xyz/logo/兴平融媒HTTP://DBIPTV.SN.CHINAMOBILE.COM/PLTV///71/INDEX3U8.png" group-title="其他",兴平融媒http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226971/index.m3u8
-undefined
+#EXTINF:-1,tvg-id="兴平融媒
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226971/index.m3u8
 #EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="其他",无信号
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226974/index.m3u8
 #EXTINF:-1,tvg-id="蒲城综合" tvg-name="蒲城综合" tvg-logo="https://epg.112114.xyz/logo/蒲城综合.png" group-title="其他",蒲城综合
